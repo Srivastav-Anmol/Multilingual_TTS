@@ -1,0 +1,4 @@
+gtts
+pygame
+io
+streamlit
